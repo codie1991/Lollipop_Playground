@@ -5,7 +5,7 @@
         android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
 
         <activity android:name=".MyActivity"
-            android:label="Hello World">
+            android:label="Lollipop Playland">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
